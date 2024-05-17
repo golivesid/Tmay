@@ -2,9 +2,9 @@ from os import environ
 
 
 # BOT CONFIG
-API_ID = environ.get("API_ID", 123456)  # api id
-API_HASH = environ.get("API_HASH", "")  # api hash
-BOT_TOKEN = environ.get("BOT_TOKEN", "")  # bot token
+API_ID = environ.get("API_ID", 23054736)  # api id
+API_HASH = environ.get("API_HASH", "d538c2e1a687d414f5c3dce7bf4a743c")  # api hash
+BOT_TOKEN = environ.get("BOT_TOKEN", "7054995045:AAF0J-BWYqKxYFyPRMpHFrapjMuhQINbsFA")  # bot token
 
 # REDIS
 REDIS_HOST = environ.get("REDIS_HOST", "localhost")  # redis host uri
