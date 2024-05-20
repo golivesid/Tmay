@@ -4,7 +4,7 @@ from os import environ
 # BOT CONFIG
 API_ID = environ.get("API_ID", 23054736)  # api id
 API_HASH = environ.get("API_HASH", "d538c2e1a687d414f5c3dce7bf4a743c")  # api hash
-BOT_TOKEN = environ.get("BOT_TOKEN", "7054995045:AAE28DVn868-Q0dC5vZMLXHhJAeWzSfGUdI")  # bot token
+BOT_TOKEN = environ.get("BOT_TOKEN", "7054995045:AAHF6p3Q0ht77Lm_KOnwAhM7dUyM2Vak_kU")  # bot token
 
 # REDIS
 REDIS_HOST = environ.get("REDIS_HOST", "redis-18149.c238.us-central1-2.gce.redns.redis-cloud.com")  # redis host uri
